@@ -1,16 +1,9 @@
-Absolutely! Here’s the **fully integrated `README.md`** with your YouTube link and Harvard CS50 official course link included, plus all previous sections in a clean, structured format:
-
----
-
-````markdown
 # CS50P: Harvard University – Introduction to Programming with Python
 
 > **Instructor:** Dr. David J. Malan  
 > **Platform:** [CS50 Official Site](https://cs50.harvard.edu/python) | [freeCodeCamp.org YouTube](https://www.youtube.com/watch?v=nLRL_NcnK-4&t=15268s)  
 > **License:** CC BY-NC-SA 4.0
-
 ---
-
 ## 🔹 Overview
 
 CS50P (CS50’s Introduction to Programming with Python) is Harvard’s Python-focused programming course. It is designed for beginners and those with little or no programming experience, providing a solid foundation in Python and practical coding skills.  
@@ -26,9 +19,7 @@ Topics include:
 - Regular expressions
 - Object-oriented programming (OOP)
 - Practical exercises inspired by real-world problems
-
 ---
-
 ## 🔹 Prerequisites
 
 - No prior programming experience required.
@@ -39,7 +30,6 @@ Topics include:
 - Optional: Git & GitHub account for version control and exercises
 
 ---
-
 ## 🔹 Setup Instructions
 
 ### 1. Python Installation
@@ -48,12 +38,12 @@ Topics include:
   Download and install Python 3.x: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 - Verify installation in terminal:
-  ```bash
+```bash
   python --version
   # or
   python3 --version
 ````
-
+---
 ### 2. Recommended IDE
 
 * **VS Code:** [https://code.visualstudio.com/](https://code.visualstudio.com/)
@@ -63,9 +53,7 @@ Topics include:
 
 * **CS50 IDE:** [https://cs50.harvard.edu/ide/](https://cs50.harvard.edu/ide/)
 * **Scrimba Interactive Python:** [https://scrimba.com/freeCodeCamp-Python](https://scrimba.com/freeCodeCamp-Python)
-
 ---
-
 ## 🔹 Study Plan
 
 | Lecture | Duration      | Topics                      | Exercises / Projects                                                                 |
@@ -82,7 +70,6 @@ Topics include:
 | 9       | 13:28 – End   | Et Cetera                   | Combine everything into a final project; explore APIs, web apps, or cloud deployment |
 
 > **Tip:** After each lecture, complete exercises and experiment with small programs to reinforce learning.
-
 ---
 
 ## 🔹 Resources & Communities
@@ -153,10 +140,8 @@ This course and materials are available under **[CC BY-NC-SA 4.0](https://creati
 * Code every day, even if only small exercises.
 * Use the community for doubts—CS50 has an extremely active forum.
 * Take notes while watching lectures; re-watch difficult sections.
-* Focus on understanding concepts rather than memorizing code.
+* Focus on understanding concepts rather than memorising code.
 
 ---
 
-Happy Coding! 🐍
-
-```
+# Happy Coding! 🐍
