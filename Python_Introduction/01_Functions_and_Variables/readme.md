@@ -85,5 +85,7 @@ Python can automate system tasks and manage servers:
 
 ---
 
+Python File Extention Are .py
+
 ## Conclusion
 Python is a **powerful**, **beginner-friendly**, and **versatile** programming language used for a wide variety of applications, from web development to data science and automation. Its extensive libraries and frameworks make it a top choice for many industries and use cases.
