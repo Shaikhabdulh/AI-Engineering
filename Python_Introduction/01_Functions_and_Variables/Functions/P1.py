@@ -30,7 +30,7 @@ def captal(x):
     z=x.split()
     z=len(z)
     if z==2:
-        return x
+        return x    # Return value will be printed if the first and last name is filled
     else:
         print ("\nPlease enter proper value full Like this")
         print ("\nEXAMPLE : - FIRSTNAME LASTNAME")
