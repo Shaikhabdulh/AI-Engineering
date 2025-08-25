@@ -1,3 +1,4 @@
+print("This Program is used to compare two digits")
 x=input("Please Enter First value: - ")
 y=input("Please Enter Second value: - ")
 
@@ -11,4 +12,4 @@ else:   #elif x<y: no need to check this just else statement can be added
     print("1st digit is lessthen 2nd digit")
     print(f"{x}<{y}")
 exit()
-    
+#Python require indentation.
